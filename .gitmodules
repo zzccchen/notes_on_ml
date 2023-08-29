@@ -1,0 +1,3 @@
+[submodule "book/hands-on-ml-2e-zh"]
+	path = book/hands-on-ml-2e-zh
+	url = https://github.com/zzccchen/hands-on-ml-2e-zh
